@@ -1046,5 +1046,4 @@ subfinder -d target.com -silent \
 
 *Methodology built from real engagements. Every command here has been run against live targets.* 
 ### 📄 License
-
-Licensed under the MIT License. Created & Maintained by **Cybernote** © 2026.
+Creadit goes to cybernote
