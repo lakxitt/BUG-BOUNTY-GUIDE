@@ -1,4 +1,4 @@
-#  Bug Bounty Tools  -
+#  Bug Bounty Tools   -
 
 > A curated list of various bug bounty tools
 
