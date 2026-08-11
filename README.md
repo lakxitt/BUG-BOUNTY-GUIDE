@@ -7,7 +7,7 @@ This repository contains my **Bug Hunting & Web Application Security** learning 
  
   
 ## 🛠️ Tools
-
+ 
 `Burp Suite` • `Nmap` • `ffuf` • `Gobuster` • `Nuclei` • `Subfinder` • `Amass` • `SQLmap` • `Nikto`
 
 ## 🎯 Purpose
