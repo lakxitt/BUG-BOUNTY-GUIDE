@@ -1,11 +1,11 @@
 # 🐞 Bug Hunting
  
-
+ 
 
 This repository contains my **Bug Hunting & Web Application Security** learning journey, including notes, methodologies, tools, payloads, labs, and practical techniques.
 
 
-
+ 
 ## 🛠️ Tools
 
 `Burp Suite` • `Nmap` • `ffuf` • `Gobuster` • `Nuclei` • `Subfinder` • `Amass` • `SQLmap` • `Nikto`
