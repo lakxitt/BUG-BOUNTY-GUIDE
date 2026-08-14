@@ -1,6 +1,6 @@
 # Resources-for-Beginner-Bug-Bounty-Hunters
 
-### Web Hacking Fundamentals
+### Web Hacking Fundamentals  
 
 ### Downloadables 
 - [NahamSec.Training](https://github.com/nahamsec/nahamsec.training/)
