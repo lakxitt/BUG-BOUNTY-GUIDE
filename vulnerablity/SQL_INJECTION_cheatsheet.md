@@ -156,7 +156,7 @@ in one query
 
 
 #### Shell commands
-
+ 
 `EXEC master..xp_cmdshell <command>`
 
 > you need yo be 'sa' user
