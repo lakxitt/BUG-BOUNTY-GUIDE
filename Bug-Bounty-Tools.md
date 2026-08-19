@@ -2,7 +2,7 @@
 
 > A curated list of various bug bounty tools
 
-## Contents
+## Contents 
 
 - [Recon](#Recon)
     - [Subdomain Enumeration](#Subdomain-Enumeration)
