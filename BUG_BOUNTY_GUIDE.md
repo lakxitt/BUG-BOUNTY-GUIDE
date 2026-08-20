@@ -3,7 +3,7 @@
 > Built on real-world experience. Opinionated by design. Updated for 2026.
    
 ---
-   
+    
 ## Table of Contents   
 
 1. [Mindset & Core Rules](#1-mindset--core-rules)
