@@ -1,5 +1,5 @@
 # 🐞 Bug Hunting
- 
+  
  
  
 This repository contains my **Bug Hunting & Web Application Security** learning journey, including notes, methodologies, tools, payloads, labs, and practical techniques.
