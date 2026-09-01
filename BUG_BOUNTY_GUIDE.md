@@ -5,7 +5,7 @@
 ---
     
 ## Table of Contents   
-
+ 
 1. [Mindset & Core Rules](#1-mindset--core-rules)
 2. [Picking a Platform](#2-picking-a-platform)
 3. [Picking a Program](#3-picking-a-program)
